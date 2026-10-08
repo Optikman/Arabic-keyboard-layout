@@ -15,6 +15,14 @@ Elkatib provides an alternative layout for typing Arabic characters
 on a computer. It is designed as an alternative to the standard
 Arabic keyboard layout.
 
+https://en.wikipedia.org/wiki/Arabic_letter_frequency
+<img width="266" height="465" alt="ArabicLetters-36" src="https://github.com/user-attachments/assets/68d4e55c-a55f-4595-ad8b-d900e97251d3" />
+
+<img width="625" height="342" alt="HurufFRQsort" src="https://github.com/user-attachments/assets/82272945-6937-4469-aac4-42c8ff46b119" />
+
+<img width="850" height="523" alt="Frequencies-of-29-Arabic-letters" src="https://github.com/user-attachments/assets/ee7b29bc-bb21-4e88-91b8-e1818937942f" />
+
+
 ## Features
 
 - Alternative Arabic keyboard layout
@@ -26,9 +34,13 @@ Arabic keyboard layout.
 
 # ScreenShots
 
-<img width="792" height="343" alt="Elkatib4" src="https://github.com/user-attachments/assets/7af09f64-637e-4362-b143-a61020281f34" />
-<img width="792" height="343" alt="Elkatib4Shft" src="https://github.com/user-attachments/assets/09331492-a654-4be3-964f-3c7e24671689" />
-<img width="792" height="343" alt="Elkatib4AltGr" src="https://github.com/user-attachments/assets/f67bfbe6-fbe0-4278-a13d-626606c7026d" />
+<img width="689" height="196" alt="Elkatib4" src="https://github.com/user-attachments/assets/8e09665b-5aee-4967-b871-2c15e7afc166" />
+
+using Shift🔽
+<img width="690" height="188" alt="Elkatib4Shft" src="https://github.com/user-attachments/assets/5f45e2b8-c518-481e-af53-aa78ea6959fc" />
+
+
+
 
 
 
