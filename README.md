@@ -22,6 +22,9 @@ https://en.wikipedia.org/wiki/Arabic_letter_frequency
 
 <img width="850" height="523" alt="Frequencies-of-29-Arabic-letters" src="https://github.com/user-attachments/assets/ee7b29bc-bb21-4e88-91b8-e1818937942f" />
 
+## Sources
+https://en.wikipedia.org/wiki/Arabic_letter_frequency
+https://www.researchgate.net/figure/Frequencies-of-29-Arabic-letters_fig5_220155847
 
 ## Features
 
