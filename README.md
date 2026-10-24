@@ -42,6 +42,10 @@ https://www.researchgate.net/figure/Frequencies-of-29-Arabic-letters_fig5_220155
 using Shift🔽
 <img width="690" height="188" alt="Elkatib4Shft" src="https://github.com/user-attachments/assets/5f45e2b8-c518-481e-af53-aa78ea6959fc" />
 
+Heatmap
+<img width="753" height="252" alt="Ar_heatmap" src="https://github.com/user-attachments/assets/8b246d36-f487-419a-b5a3-884021d6a867" />
+
+
 
 
 
