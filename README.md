@@ -1,6 +1,8 @@
 
+الصفحة الحالية موضحة التفاصيل باللغة الانجليزية لتغيير اللغة◀️
+للغة العربية اختار >> [الغة العربية](README.ar.md)
+
 # Elkatib — Arabic Keyboard Layout
-#الكاتب - تخطيط لوحة مفاتيح عربية
 
 
 Elkatib is an alternative Arabic keyboard layout designed to make
