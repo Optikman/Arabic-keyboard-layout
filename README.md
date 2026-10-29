@@ -18,7 +18,6 @@ on a computer. It is designed as an alternative to the standard
 Arabic keyboard layout.
 
 
-<img width="266" height="465" alt="ArabicLetters-36" src="https://github.com/user-attachments/assets/68d4e55c-a55f-4595-ad8b-d900e97251d3" />
 
 <img width="625" height="342" alt="HurufFRQsort" src="https://github.com/user-attachments/assets/82272945-6937-4469-aac4-42c8ff46b119" />
 
